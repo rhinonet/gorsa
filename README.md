@@ -14,7 +14,7 @@ import (
 
 	"errors"
 
-	"github.com/farmerx/gorsa"
+	"github.com/rhinonet/gorsa"
 )
 
 var Pubkey = `-----BEGIN 公钥-----
