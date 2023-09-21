@@ -4,7 +4,7 @@ gorsa 支持rsa公钥加密私钥解密；支持rsa公钥解密私钥加密。
 
 ## gorsa 使用方法
 
-使用方法: `go get github.com/farmerx/gorsa`
+使用方法: `go get github.com/rhnionet/gorsa`
 
 ```vim
 package main
